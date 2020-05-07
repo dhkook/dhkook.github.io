@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               dhkook's blog
+title:               Dhkook's Blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,16 +13,16 @@ url:                 https://dhkook.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "All roads lead to data."
+tagline:             "~~~~~~~~~~."
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Data science enthusiast and addict :)
+  ~~~~~~~~~
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              Kook
+  name:              dhkook
   email:             xamadu0@naver.com
 
 # Fallback image and color
@@ -48,7 +48,7 @@ google_analytics:    UA-137374202-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    dhkook's blog
+disqus_shortname:    Dhkook
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2020.05. by dhkook'
